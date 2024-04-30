@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+  
+.game-based-learning {
+    padding: 40px;
+}
+  
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+  
+/* Títulos */
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    background-color: #4caf50;
+    padding: 10px;
+}
+  
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+  
+h3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+  
+/* Párrafos */
+p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+  
+/* Listas */
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+  
+li {
+    margin-bottom: 20px;
+}
+  
+/* Secciones */
+.benefits {
+    margin-bottom: 40px;
+}
+  
+.beyond-entertainment {
+    margin-bottom: 40px;
+}
+  
+.call-to-action {
+    text-align: center;
+}
+  
+/* Botón */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+  
+.button:hover {
+    background-color: #444;
+}
+
+/* Estilo específico para el texto dentro de .benefits */
+.benefits p {
+    color: #8B4513; /* Color marrón */
+}
+
+/* Estilo específico para el fondo celeste */
+.highlight-background {
+    background-color: #7ec8e3; /* Fondo celeste */
+    padding: 2px; /* Espacio adicional alrededor del texto */
+    border-radius: 4px; /* Bordes redondeados */
+}
